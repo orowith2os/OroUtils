@@ -1,3 +1,5 @@
+Migrated to https://gitlab.com/orowith2os/oroutils
+
 # OroUtils
 A collection of shell scripts and utilities useful to me, Oro.
 
